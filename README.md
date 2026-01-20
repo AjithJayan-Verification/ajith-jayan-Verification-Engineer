@@ -1,6 +1,6 @@
 # Hi, I’m Ajith 👋
 
-🎯 **VLSI Verification Engineer | SystemVerilog | UVM | SoC | FPGA Enthusiast**
+🎯 **VLSI Verification Engineer | SystemVerilog | UVM | SOC | FPGA Enthusiast**
 
 I am highly interested in the **Verification domain of VLSI**, with hands-on experience in building **SystemVerilog and UVM-based verification environments**. I enjoy working on **protocol-based verification**, **memory subsystems**, and exploring **SoC and FPGA-level design and verification workflows**.
 
